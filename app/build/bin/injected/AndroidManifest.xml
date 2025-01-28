@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	package="com.mycompany.myapp"
+	package="com.example.helloJAVA"
 	android:versionCode="1"
 	android:versionName="1.0">
 
 	<uses-sdk
-		android:minSdkVersion="14"
-		android:targetSdkVersion="29"/>
+		android:minSdkVersion="1"
+		android:targetSdkVersion="1"/>
 
 	<application
 		android:allowBackup="true"
